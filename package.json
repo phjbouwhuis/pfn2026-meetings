@@ -1,8 +1,0 @@
-{
-  "name": "pfn2026-meeting-scheduler",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@vercel/blob": "^2.3.3"
-  }
-}
